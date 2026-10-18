@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3483-unique-3-digit-even-numbers) |
@@ -47,5 +48,42 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3870-count-commas-in-range](https://github.com/aishitachhabda/Leetcode-October/tree/master/3870-count-commas-in-range) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
