@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aishitachhabda/Leetcode-October/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3886-sum-of-sortable-integers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3870-count-commas-in-range](https://github.com/aishitachhabda/Leetcode-October/tree/master/3870-count-commas-in-range) |
+| [3886-sum-of-sortable-integers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
