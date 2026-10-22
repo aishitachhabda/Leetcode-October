@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/aishitachhabda/Leetcode-October/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
