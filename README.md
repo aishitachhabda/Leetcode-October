@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/aishitachhabda/Leetcode-October/tree/master/0038-count-and-say) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aishitachhabda/Leetcode-October/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aishitachhabda/Leetcode-October/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aishitachhabda/Leetcode-October/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aishitachhabda/Leetcode-October/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishitachhabda/Leetcode-October/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -107,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aishitachhabda/Leetcode-October/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aishitachhabda/Leetcode-October/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aishitachhabda/Leetcode-October/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishitachhabda/Leetcode-October/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aishitachhabda/Leetcode-October/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aishitachhabda/Leetcode-October/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aishitachhabda/Leetcode-October/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishitachhabda/Leetcode-October/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
