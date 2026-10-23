@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3483-unique-3-digit-even-numbers) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aishitachhabda/Leetcode-October/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aishitachhabda/Leetcode-October/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Recursion
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aishitachhabda/Leetcode-October/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aishitachhabda/Leetcode-October/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishitachhabda/Leetcode-October/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aishitachhabda/Leetcode-October/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
