@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aishitachhabda/Leetcode-October/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aishitachhabda/Leetcode-October/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishitachhabda/Leetcode-October/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/aishitachhabda/Leetcode-October/tree/master/2409-count-days-spent-together) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/aishitachhabda/Leetcode-October/tree/master/2409-count-days-spent-together) |
 | [3870-count-commas-in-range](https://github.com/aishitachhabda/Leetcode-October/tree/master/3870-count-commas-in-range) |
 | [3886-sum-of-sortable-integers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
