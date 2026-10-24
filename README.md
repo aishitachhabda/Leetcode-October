@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aishitachhabda/Leetcode-October/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/aishitachhabda/Leetcode-October/tree/master/2409-count-days-spent-together) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/aishitachhabda/Leetcode-October/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
