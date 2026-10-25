@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1254-number-of-closed-islands](https://github.com/aishitachhabda/Leetcode-October/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/aishitachhabda/Leetcode-October/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -124,4 +126,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aishitachhabda/Leetcode-October/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/aishitachhabda/Leetcode-October/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/aishitachhabda/Leetcode-October/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/aishitachhabda/Leetcode-October/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
