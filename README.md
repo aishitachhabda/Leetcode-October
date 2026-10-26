@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/aishitachhabda/Leetcode-October/tree/master/0038-count-and-say) |
+| [0093-restore-ip-addresses](https://github.com/aishitachhabda/Leetcode-October/tree/master/0093-restore-ip-addresses) |
 | [0392-is-subsequence](https://github.com/aishitachhabda/Leetcode-October/tree/master/0392-is-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aishitachhabda/Leetcode-October/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aishitachhabda/Leetcode-October/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/aishitachhabda/Leetcode-October/tree/master/0392-is-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/aishitachhabda/Leetcode-October/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
