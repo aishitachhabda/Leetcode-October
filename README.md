@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1254-number-of-closed-islands](https://github.com/aishitachhabda/Leetcode-October/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aishitachhabda/Leetcode-October/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aishitachhabda/Leetcode-October/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aishitachhabda/Leetcode-October/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aishitachhabda/Leetcode-October/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aishitachhabda/Leetcode-October/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -147,16 +149,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aishitachhabda/Leetcode-October/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aishitachhabda/Leetcode-October/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aishitachhabda/Leetcode-October/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aishitachhabda/Leetcode-October/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aishitachhabda/Leetcode-October/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aishitachhabda/Leetcode-October/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aishitachhabda/Leetcode-October/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aishitachhabda/Leetcode-October/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aishitachhabda/Leetcode-October/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aishitachhabda/Leetcode-October/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
@@ -171,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/3903-smallest-stable-index-i) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aishitachhabda/Leetcode-October/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
