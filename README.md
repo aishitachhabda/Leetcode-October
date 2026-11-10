@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aishitachhabda/Leetcode-October/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aishitachhabda/Leetcode-October/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aishitachhabda/Leetcode-October/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/aishitachhabda/Leetcode-October/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/3693-climbing-stairs-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aishitachhabda/Leetcode-October/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aishitachhabda/Leetcode-October/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/aishitachhabda/Leetcode-October/tree/master/0392-is-subsequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/aishitachhabda/Leetcode-October/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aishitachhabda/Leetcode-October/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/aishitachhabda/Leetcode-October/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/aishitachhabda/Leetcode-October/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aishitachhabda/Leetcode-October/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/aishitachhabda/Leetcode-October/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aishitachhabda/Leetcode-October/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
