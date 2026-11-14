@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aishitachhabda/Leetcode-October/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aishitachhabda/Leetcode-October/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aishitachhabda/Leetcode-October/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aishitachhabda/Leetcode-October/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aishitachhabda/Leetcode-October/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -188,9 +189,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/aishitachhabda/Leetcode-October/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/3903-smallest-stable-index-i) |
 ## Counting
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/aishitachhabda/Leetcode-October/tree/master/1267-count-servers-that-communicate) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/aishitachhabda/Leetcode-October/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
