@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1254-number-of-closed-islands](https://github.com/aishitachhabda/Leetcode-October/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/aishitachhabda/Leetcode-October/tree/master/1267-count-servers-that-communicate) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aishitachhabda/Leetcode-October/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aishitachhabda/Leetcode-October/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aishitachhabda/Leetcode-October/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/aishitachhabda/Leetcode-October/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aishitachhabda/Leetcode-October/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/aishitachhabda/Leetcode-October/tree/master/0392-is-subsequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aishitachhabda/Leetcode-October/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aishitachhabda/Leetcode-October/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3665-twisted-mirror-path-count](https://github.com/aishitachhabda/Leetcode-October/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/aishitachhabda/Leetcode-October/tree/master/3693-climbing-stairs-ii) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aishitachhabda/Leetcode-October/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aishitachhabda/Leetcode-October/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/aishitachhabda/Leetcode-October/tree/master/3903-smallest-stable-index-i) |
 ## Counting
